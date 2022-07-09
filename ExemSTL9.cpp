@@ -1,5 +1,5 @@
 // CPP program to illustrate
-// Implementation of front()  and back function
+// Implementation of functions front() and back() 
 
 #include <iostream>
 #include <vector>
